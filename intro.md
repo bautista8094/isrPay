@@ -1,0 +1,2 @@
+-[X] Puedes usar marcado adicional, incluyendo @menciones, #referecias, [enlaces](URL), **enfasis** y <del>etiquetas html<del>. -[X] Se requiere sintaxis de listas.
+-¡Tambien puedes anidar listas dentro de otras
