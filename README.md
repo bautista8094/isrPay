@@ -1,2 +1,2 @@
 # HolaMundo
-Ejemplo de Uso
+Ejemplo de Uso de Git (Principiantes)
